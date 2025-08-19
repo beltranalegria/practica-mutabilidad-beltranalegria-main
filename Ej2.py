@@ -12,7 +12,7 @@ def ejemplo_extend():
     lista = [1, 2]
     copia = lista
     lista.extend([3, 4, 5])
-    print("extend:", lista, copia)  # [1,2,3,4,5]
+    print("extend:", lista, copia)  # [1,2,3,4,5]   
 
 def ejemplo_insert():
     lista = ["a", "c"]

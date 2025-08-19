@@ -6,7 +6,7 @@ c1 = 3 + 4j
 # Ejemplo 2: solo parte imaginaria
 c2 = 5j
 
-# Ejemplo 3: usando la función complex()
+# Ejemplo 3: usando la función complex() 
 c3 = complex(2, -3)
 
 print("Ejemplo 1:", c1)  # (3+4j)
