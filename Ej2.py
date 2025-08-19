@@ -6,7 +6,7 @@ def ejemplo_append():
     lista = [1, 2, 3]
     copia = lista
     lista.append(4)
-    print("append:", lista, copia)  # ambas cambian → [1,2,3,4]
+    print("append:", lista, copia)  # ambas cambian → [1,2,3,4]b thet
 
 def ejemplo_extend():
     lista = [1, 2]
